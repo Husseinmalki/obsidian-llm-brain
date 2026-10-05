@@ -151,8 +151,7 @@ Once the basics run smoothly:
 
 ---
 
-<video src="LLM Wiki How-To.mp4" width="320" height="240" controls></video>
-
+https://github.com/user-attachments/assets/13868135-f13a-434a-914c-37b452b6d90f
 
 ---
 ## Credits
