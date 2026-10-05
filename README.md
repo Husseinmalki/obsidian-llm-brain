@@ -1,4 +1,4 @@
-# Obsidian LLM Wiki
+# Obsidian LLM Brain
 
 A clone-and-go Obsidian vault that **Claude maintains for you**. You drop in sources and ask questions; Claude writes the summaries, links pages together, keeps an index, and logs every change.
 
@@ -42,7 +42,7 @@ One file — [`vault/CLAUDE.md`](vault/CLAUDE.md) — holds the rules, so every 
 
 1. **Get the template.**
    ```bash
-   git clone https://github.com/<your-username>/obsidian-llm-wiki.git
+   git clone https://github.com/Husseinmalki/obsidian-llm-wiki.git
    ```
    Or click **Code → Download ZIP** and unzip it.
 2. **Copy the `vault/` folder** to where you want your notes to live, and rename it (e.g. `Second Brain`).
