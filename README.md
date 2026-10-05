@@ -151,6 +151,10 @@ Once the basics run smoothly:
 
 ---
 
+<video src="LLM Wiki How-To.mp4" width="320" height="240" controls></video>
+
+
+---
 ## Credits
 
 Inspired by Andrej Karpathy's "LLM wiki" idea — an LLM that maintains a personal knowledge base rather than answering from scratch each time.
